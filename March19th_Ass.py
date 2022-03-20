@@ -43,7 +43,7 @@ name2 = input("Employee name2 & Temp : ")
 Enter your name : Neela 23.00
 name3  = input("Employee name3 & Temp: ")
 Enter your name : Padma 90.45
-val1 = name1.split(" ")
+
 name1 = name1.split()
 name2 = name2.split()
 name3 = name3.split()
