@@ -47,7 +47,7 @@ val1 = name1.split(" ")
 name1 = name1.split()
 name2 = name2.split()
 name3 = name3.split()
-print(name1[1]+name2[1]+name3[1])
+print(float(name1[1])+float(name2[1])+float(name3[1]))
 
 o/p- 123.45
 =====================================================
