@@ -51,8 +51,7 @@ print(min(ls))
 1
 print(max(ls))
 9
-print(list(set(ls)))
-[1, 5, 6, 7, 8, 9]
+
 
 #Find median of the list
 medain = len(ls)//2
@@ -66,6 +65,10 @@ print(tup)
 (1, 1, 5, 5, 6, 6, 7, 7, 8, 8, 8, 9)
 print(type(tup))
 <class 'tuple'>
+
+print(list(set(ls)))
+[1, 5, 6, 7, 8, 9]
+
 =====================================================================
 
 **************** Tuple **********************************************
@@ -83,8 +86,6 @@ t1 = (1,4,5,6,7,8)
 t2 = (5,6,7,8,9)
 
 #Create two tuples (1,4,5,6,7,8) (5,6,7,8,9)
-tp_set = set(t1)
-tp_set = set(t2)
 tp_set1 = set(t1)
 tp_set2 = set(t2)
 com_ele = (tp_set1 & tp_set2)
@@ -150,14 +151,11 @@ print(set2)
 #check whether set2 is subset of set1 or no ?
 print(set1.issubset(set2))
 False
-print(set1.isdisjoint(set2))
-False
 
 #remove 8 from set 1 and set 2 ==> find the inferences
 set1.remove(8)
 print(set1)
 {0, 1, 2, 3, 4, 5, 7, 9}
-
 
 set2.remove(8)
 Traceback (most recent call last):
