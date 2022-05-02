@@ -1,0 +1,45 @@
+
+Name: VINAY KUMAR
+Mobile: +919986690881
+E-Mail: vinaykumar@gmail.com
+Linked Id: https://www.linkedin.com/in/vinay-kumar-72381ujy3u
+Github Id: https://github.com/VINAY KUMAR/Projects.git
+
+
+Technical Skills:
+a.Python
+b.MySQL
+c.PowerBI
+d.AWS
+e.Devops
+
+
+Education:
+B.E (ECE) S.R.K.R Engineering college, Bhimavaram.
+
+
+
+PROJECTS :
+Candidate Selections : It is a web application for candidate selection based on their skills. In this project candidates can upload their resumes with their registered id. Companies select candidates through their portal according to technical skills and send a QR code to match candidates through mail and candidates are allowed to attend interviews by scanning the QR code.
+Roles and Responsibilities :
+• Create database for data storing.
+• Created python scripts to update the content in database and manipulate files.
+• Login validation.
+• QR generation and sending mail and sending SMS notification.
+Environment: PyCharm, Python, MySQL, Windows.
+
+Certification:
+a.AWS Certified Solutions Architect – Associate (SAA-C02)
+b.AWS Certified DevOps Engineer – Professional (DOP-C01)
+
+Personal Details:
+Date of Birth : 6th July 1992
+Marital Status : Single
+Nationality : Indian
+Languages Known : English, Telugu and Hindi
+Permanent Address : Sri Vishnavi Towers, Bapuji Nagar, Kovvur, West Godavari Dt, Andhra Pradesh-534350.
+
+
+
+
+
